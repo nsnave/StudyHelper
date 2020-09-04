@@ -7,7 +7,9 @@ Add a .txt file to the "content" folder with each line in the following format:
 
 > Message or Question to Display\image_in_icons_folder.png\possible answer1\possible answer2\more answers
 
-For example, `Transcribe the hieroglyph\vulture.png\A\aleph` will create a prompt telling the user to translate the image shown, vulture.png. "vulture.png" is stored in the "icons" folder and the possible correct answers include "A" or "aleph".
+For example, `Transcribe the hieroglyph(s)\rope.png\h.\dotted h` will create a prompt telling the user to translate the image shown, rope.png. "rope.png" is stored in the "icons" folder and the possible correct answers include "h." or "dotted h".
+
+![Prompt for Example](ExamplePrompt.PNG)
 
 Any text files in "content" will be included in the question bank so there can be multiple .txt files to make organization easier.
 
