@@ -1,0 +1,30 @@
+Transcribe the hieroglyph(s)\vulture.png\A\aleph
+Transcribe the hieroglyph(s)\reed-leaf.png\j\i\yod
+Transcribe the hieroglyph(s)\dual_strokes.png\j\i\yod
+Transcribe the hieroglyph(s)\double_reed-leaf.png\y
+Transcribe the hieroglyph(s)\arm.png\a\ayin
+Transcribe the hieroglyph(s)\quail-chick.png\w
+Transcribe the hieroglyph(s)\curl_of_rope.png\w
+Transcribe the hieroglyph(s)\foot.png\b
+Transcribe the hieroglyph(s)\stool.png\p
+Transcribe the hieroglyph(s)\horned_viper.png\f
+Transcribe the hieroglyph(s)\owl.png\m
+Transcribe the hieroglyph(s)\unknown_object_0.png\m
+Transcribe the hieroglyph(s)\water.png\n
+Transcribe the hieroglyph(s)\red_crown.png\n
+Transcribe the hieroglyph(s)\mouth.png\r
+Transcribe the hieroglyph(s)\enclosure.png\h
+Transcribe the hieroglyph(s)\rope.png\h.\dotted h
+Transcribe the hieroglyph(s)\bread.png\h(\h)\third h
+Transcribe the hieroglyph(s)\belly_and_udder.png\h_\fourth h
+Transcribe the hieroglyph(s)\doorbolt.png\z\first s
+Transcribe the hieroglyph(s)\bolt_of_cloth.png\s\second s
+Transcribe the hieroglyph(s)\depression.png\s^\shin
+Transcribe the hieroglyph(s)\hill.png\q\dotted k
+Transcribe the hieroglyph(s)\basket_with_handle.png\k
+Transcribe the hieroglyph(s)\jar-stand.png\g
+Transcribe the hieroglyph(s)\bag.png\g
+Transcribe the hieroglyph(s)\bread-loaf.png\t
+Transcribe the hieroglyph(s)\hobble.png\t_\second t
+Transcribe the hieroglyph(s)\hand.png\d
+Transcribe the hieroglyph(s)\cobra.png\d_\second d

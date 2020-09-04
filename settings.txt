@@ -1,0 +1,8 @@
+Type "--stop" (without quotations) in the prompt as an answer to fully stop the program
+
+The time in between rounds (latency accepts integer input; unit accepts "seconds", "minutes", and "hours")
+latency: 1
+unit: hours
+
+How many questions in a round (size accepts integer input)
+size: 5
