@@ -25,8 +25,9 @@ There are three possible settings:
 For example, if latency is 30, units is "minutes" (without quotations), and size is 5, then the user will be prompted with a round of 5 questions every 30 minutes.
 
 ### Suggested Use
-- Compile the code into an executable jar file and add shortcut link to the executable in the "startup" folder so when the computer first starts up the program will run.
-- If you wish to fully close the program once it is running, in the answer textbox type "--stop" (withou quotations).
+- Compile the code into an executable jar file and add a shortcut link to the executable in the "startup" folder so when the computer first starts up the program will run.
+- If you wish to fully close the program once it is running, in the answer textbox type "--stop" (without quotations).
+- An already compiled runnable executable jar is uploaded for ease of use.
 
 ## Included Example Questions
 Since I originally created this program to help learn middle egyptian hieroglyphic, an example question set is included that displays a hieroglyph (i.e., a unilateral sign) and asks the user for the correct transcription. Looking at how these questions and images are organized will hopefully help clear up any remaining confusion on the set-up.
